@@ -1,0 +1,4 @@
+John Wick,actiune,2010,Keanu Reeves
+Sonic 2,aventura,2022,Jim Carrey
+Jurassic Park,SF,1997,Jur Park
+Titanic,drama,1990,Leonardo

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Lab_10_11.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Service.cpp" />
+    <ClCompile Include="Cos.cpp" />
+    <ClCompile Include="Domain.cpp" />
+    <ClCompile Include="Repository.cpp" />
+    <ClCompile Include="Teste.cpp" />
+    <ClCompile Include="Validare.cpp" />
+    <ClCompile Include="CRUDGui.cpp" />
+    <ClCompile Include="Observer.cpp" />
+    <ClCompile Include="CosReadOnlyGUI.cpp" />
+    <ClCompile Include="MyTableModel.cpp" />
+    <ClCompile Include="MyListModel.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Lab_10_11.h" />
+    <ClInclude Include="Service.h" />
+    <ClInclude Include="Cos.h" />
+    <ClInclude Include="Domain.h" />
+    <ClInclude Include="Repository.h" />
+    <ClInclude Include="Teste.h" />
+    <ClInclude Include="Undo.h" />
+    <ClInclude Include="Validare.h" />
+    <ClInclude Include="CRUDGui.h" />
+    <ClInclude Include="Observer.h" />
+    <ClInclude Include="CosReadOnlyGUI.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="MyTableModel.h" />
+    <ClInclude Include="MyListModel.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="Lab_10_11.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="Lab_10_11.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Lab 10-11.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Image.jpg" />
+    <Image Include="..\..\..\..\..\..\OneDrive\Desktop\Dante.jpg" />
+  </ItemGroup>
+</Project>
